@@ -6,11 +6,14 @@ Wii用タタコンを、WiiリモコンとBluetooth経由でWindowsのキーボ�
 
 ## Download / ダウンロード
 
-**初回リリース準備中 / First release in preparation.**
+**[ダウンロード / Download (Releases)](https://github.com/tahkunxd/God-Taiko-Connector/releases)**
 
-公開後は [Releases](../../releases) から最新版のZIPをダウンロードし、展開して `GodTaikoConnector.exe` を起動してください。
+リリースページの Assets にある `God_Taiko_Connector_v0.3.2.zip` をダウンロードし、展開して `GodTaikoConnector.exe` を起動してください。インストールやビルドは不要です。
 
-Once released, download the latest ZIP from Releases, extract it, then run `GodTaikoConnector.exe`.
+Download `God_Taiko_Connector_v0.3.2.zip` under Assets, extract it, and run `GodTaikoConnector.exe`. No installation or build is required.
+
+GitHub が自動生成する Source code (zip / tar.gz) はアプリ本体ではありません。
+GitHub's automatically generated Source code archives are not the application.
 
 ## Features / 主な機能
 
