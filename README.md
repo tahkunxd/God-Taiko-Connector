@@ -1,8 +1,10 @@
-# 神 TAIKO CONNECTOR
+# 神 TAIKO CONNECTOR — WiiタタコンをPCで使うWindows用ツール
 
 Wii用タタコンを、WiiリモコンとBluetooth経由でWindowsのキーボード入力として使う無料ユーティリティです。
 
 **Free Windows utility for using a Wii TaTaCon as keyboard input via a Wii Remote and Bluetooth.**
+
+Wii用の太鼓型コントローラーをWindows 10/11で活用したい方向け。ドン・カッの4箇所をキーボードのキーに割り当て、キーボード操作対応のゲームで利用できます。無料・広告なしの非公式ツールです。
 
 ## Download / ダウンロード
 
@@ -56,6 +58,15 @@ Attach the drum, enable Bluetooth, click Connect (1+2), and press 1 and 2 on the
 詳細は同梱のREADME.txtを参照してください。未署名のためWindows SmartScreenの警告が出ることがあります。正規配布元とハッシュを確認し、セキュリティソフトで検査してください。
 See the included README.txt for details. Windows SmartScreen may warn because the executable is unsigned. Verify the official download source and checksum, and scan the file with security software.
 
+## よくある質問 / FAQ
+
+[WiiタタコンをWindows PCに接続する方法・トラブル対処（日本語）](docs/wii-tatacon-windows.md)
+
+- **WiiのタタコンはPCに直接つなぐ？** タタコンをWiiリモコンにつなぎ、リモコンをPCにBluetooth接続します。
+- **WiiリモコンPlusや2台同時接続は使える？** 実機未検証です。すべての機器・ゲームでの動作は保証していません。
+- **ドン・カッを好きなキーに変更できる？** キー割当を変更してゲーム別プロファイルに保存できます。
+- **接続できない場合は？** 電池・Bluetooth・接続操作を確認してください。詳しい手順は上記ガイドと同梱READMEをご覧ください。
+
 ## Support / 開発支援
 
 開発者 / Developer: **Taka Labo**
@@ -67,5 +78,9 @@ See the included README.txt for details. Windows SmartScreen may warn because th
 
 本アプリは非公式の無料・広告なしのツールです。ソースコードは非公開です。開発支援は任意です。
 This is an unofficial, free and ad-free utility. Source code is not publicly distributed. Donations are optional.
+
+ソフトが役立ったら、任意の[開発支援（Buy Me a Coffee）](https://buymeacoffee.com/takalabo)をご検討ください。支援なしでも利用できます。
+
+ほかのTaka Labo製品：[神 DOWNLOADER — Windows向け動画・再生リスト保存管理ツール](https://github.com/TakaLabo-Official/God-Downloader)
 
 Copyright © 2026 Taka Labo. All rights reserved.
