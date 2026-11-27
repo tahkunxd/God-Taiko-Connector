@@ -72,6 +72,9 @@ See the included README.txt for details. Windows SmartScreen may warn because th
 **以下のリンクはAmazonアフィリエイト広告です。** / **The links below are affiliate links.**
 
 - [TP-Link UB500 USB Bluetoothアダプター](https://www.amazon.co.jp/dp/B098K3H92Z/ref=nosim?tag=takalabo-22) — Windows PC向けUSB Bluetoothアダプター。
+- [パナソニック エネループ 単3形4本・充電器セット K-KJ83MCD40](https://www.amazon.co.jp/dp/B0BY8VB78K/ref=nosim?tag=takalabo-22) — Wiiリモコン用の充電池・充電器。
+- [任天堂 純正Wiiリモコン RVL-003](https://www.amazon.co.jp/s?k=Wii%E3%83%AA%E3%83%A2%E3%82%B3%E3%83%B3%20%E7%B4%94%E6%AD%A3%20RVL-003&tag=takalabo-22) — Amazonの商品検索。
+- [Wii用 太鼓とバチ（タタコン）](https://www.amazon.co.jp/s?k=%E5%A4%AA%E9%BC%93%E3%81%AE%E9%81%94%E4%BA%BA%20Wii%20%E5%A4%AA%E9%BC%93%E3%81%A8%E3%83%90%E3%83%81%20%E3%82%BF%E3%82%BF%E3%82%B3%E3%83%B3&tag=takalabo-22) — Amazonの商品検索。
 
 Amazonのアソシエイトとして、Taka Laboは適格販売により収入を得ています。
 As an Amazon Associate, Taka Labo earns from qualifying purchases.
