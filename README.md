@@ -69,7 +69,7 @@ See the included README.txt for details. Windows SmartScreen may warn because th
 
 ## 関連機器 / Related hardware
 
-**以下のリンクはAmazonアフィリエイト広告です。** / **The links below are affiliate links.**
+**Amazon広告 / Ad**
 
 - [TP-Link UB500 USB Bluetoothアダプター](https://www.amazon.co.jp/dp/B098K3H92Z/ref=nosim?tag=takalabo-22) — Windows PC向けUSB Bluetoothアダプター。
 - [パナソニック エネループ 単3形4本・充電器セット K-KJ83MCD40](https://www.amazon.co.jp/dp/B0BY8VB78K/ref=nosim?tag=takalabo-22) — Wiiリモコン用の充電池・充電器。
