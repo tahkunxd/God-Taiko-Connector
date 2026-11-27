@@ -8,16 +8,24 @@ Wii用タタコンを、WiiリモコンとBluetooth経由でWindowsのキーボ�
 
 **[ダウンロード / Download (Releases)](https://github.com/TakaLabo-Official/God-Taiko-Connector/releases/latest)**
 
-リリースページの Assets にある `God_Taiko_Connector_v0.3.2.zip` をダウンロードし、展開して `GodTaikoConnector.exe` を起動してください。インストールやビルドは不要です。
+リリースページの Assets にある `God_Taiko_Connector_v0.3.3.zip` をダウンロードし、展開して `GodTaikoConnector.exe` を起動してください。インストールやビルドは不要です。
 
-Download `God_Taiko_Connector_v0.3.2.zip` under Assets, extract it, and run `GodTaikoConnector.exe`. No installation or build is required.
+Download `God_Taiko_Connector_v0.3.3.zip` under Assets, extract it, and run `GodTaikoConnector.exe`. No installation or build is required.
 
 GitHub が自動生成する Source code (zip / tar.gz) はアプリ本体ではありません。
 GitHub's automatically generated Source code archives are not the application.
 
-[v0.3.2 ZIPを直接ダウンロード / Direct download](https://github.com/TakaLabo-Official/God-Taiko-Connector/releases/download/v0.3.2/God_Taiko_Connector_v0.3.2.zip)
+[v0.3.3 ZIPを直接ダウンロード / Direct download](https://github.com/TakaLabo-Official/God-Taiko-Connector/releases/download/v0.3.3/God_Taiko_Connector_v0.3.3.zip)
 
-SHA-256: `cdce635e75de99005c4f5d8d0f017d91e4ab6957f4c0bcc696701e95e58b11c0` (GitHub release asset digest)
+SHA-256: `98ac210ca24315a771a23e39e11cf14a3e10ebe7ddeb9af40c57fa230f3addf2` (GitHub release asset digest)
+
+## What's new in v0.3.3 / 更新内容
+
+正式ブランド・著作権・公式リンク・バージョン情報画面・同梱説明書を更新し、アイコンの無線通信マークを一般的な図柄に変更しました。既存の入力機能・設定は維持しています。
+
+Updated branding, copyright, official links, About dialog, documentation and generic wireless icon. Existing input functionality and settings are retained.
+
+旧版をトレイから完全終了し、設定をバックアップしてから新版を別フォルダに展開してください。 / Exit the old version from the system tray, back up settings and extract the new version to a separate folder.
 
 ## Features / 主な機能
 
