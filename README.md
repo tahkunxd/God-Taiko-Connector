@@ -67,6 +67,15 @@ See the included README.txt for details. Windows SmartScreen may warn because th
 - **ドン・カッを好きなキーに変更できる？** キー割当を変更してゲーム別プロファイルに保存できます。
 - **接続できない場合は？** 電池・Bluetooth・接続操作を確認してください。詳しい手順は上記ガイドと同梱READMEをご覧ください。
 
+## 関連機器 / Related hardware
+
+**以下のリンクはAmazonアフィリエイト広告です。** / **The links below are affiliate links.**
+
+- [TP-Link UB500 USB Bluetoothアダプター](https://www.amazon.co.jp/dp/B098K3H92Z/ref=nosim?tag=takalabo-22) — Windows PC向けUSB Bluetoothアダプター。
+
+Amazonのアソシエイトとして、Taka Laboは適格販売により収入を得ています。
+As an Amazon Associate, Taka Labo earns from qualifying purchases.
+
 ## Support / 開発支援
 
 開発者 / Developer: **Taka Labo**
